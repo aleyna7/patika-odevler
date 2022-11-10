@@ -1,0 +1,38 @@
+.logo {
+    margin:0 500px ;
+}
+.bg {
+    background-color: #EEEEEE;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 100px;
+    padding: 0 450px;
+    border: 0px;
+    margin-bottom: 5px;
+}
+.green-one {
+    background-color:#7EE5DA ;
+    height: 100px;
+    width: 400px;
+    float:left;
+    margin-right: 5px;
+    text-align: center;
+}
+.green-two {
+    background-color: #70CCC2;
+    height: 100px;
+    width: 300px;
+    float:left;
+    margin-right: 5px;
+    text-align: center;
+}
+.green-three {
+    background-color: #62B3AA;
+    height: 100px;
+    width:480px;
+    float:left;
+    text-align: center;
+}
+.p {
+    margin: 0px;
+}
